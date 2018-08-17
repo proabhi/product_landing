@@ -1,0 +1,96 @@
+
+#email{
+  width: 40%;
+}
+#submit{
+  margin:10px;
+  background-color: #d4e028;
+}
+body{
+  background-color: #eee;
+}
+.bg-light {
+  background-color: #eee! important;
+}
+.navbar-brand{
+  margin-bottom: 0;
+  font-size: 30px;
+}
+.nav-item{
+  text-align:center;
+}
+.nav-link{
+  margin: auto 30px;
+}
+.top{
+  margin: auto 10%;
+}
+i{
+  color: #d4e028;
+}
+.row{
+  margin: 8% auto
+}
+
+h5{
+  font-weight: bold;
+  text-align: center;
+}
+.email{
+  width: 50%;
+  margin: 35px auto;
+  text-align: center;
+  margin-top: 8%;
+}
+.info{
+  width: 70%;
+  margin: 50px auto;
+}
+#vedio{
+  margin:0 auto;
+  width:70%;
+  text-align: center;
+}
+.pricing{
+  padding: 0;
+}
+.inner{
+  margin: 2%;
+  border: 1px solid black;
+}
+.container{
+  text-align:center;
+}
+.grid_head{
+  background-color:#ddd;
+  padding:15px 0;
+}
+ul{
+  list-style: none;
+  padding-left:0;
+}
+#foot{
+  background-color: #ddd;
+  display:flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+.end{
+  display: inline;
+}
+.copyright{
+  font-size: 12px;
+  padding: 3%;
+}
+@media only screen and (max-width: 767.98px){
+  .navbar-brand{
+    font-size: 16px;
+  }
+  .email{
+    margin-top: 70px;
+  }
+  #email{
+    width:70%;
+  }
+
+ }
